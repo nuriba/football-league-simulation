@@ -1,4 +1,4 @@
-module football-league-simulation
+module football_league_simulation
 
 go 1.21
 
